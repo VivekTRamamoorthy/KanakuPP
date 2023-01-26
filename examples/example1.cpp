@@ -1,6 +1,9 @@
 
 #include<iostream>
+#include <vector>
+#include <stdexcept>
 #include "../lib/Kanaku.h"
+#include "../lib/Kanaku.cpp"
 using namespace Kanaku;
 int main(){
     int number = 10;
